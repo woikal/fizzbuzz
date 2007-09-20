@@ -1,0 +1,5 @@
+Rhino Mocks is a Mock Object Framework and can be found here
+
+http://ayende.com/projects/rhino-mocks.aspx
+
+This version of Enterprize.FizzBuzz was tested with v3.2
