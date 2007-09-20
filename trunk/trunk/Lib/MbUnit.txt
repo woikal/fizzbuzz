@@ -1,0 +1,5 @@
+MbUnit is a unit testing framework and can be found here
+
+http://www.mbunit.com/
+
+This version of FizzBuzz.Enterprise was tested with MbUnit v2.4.197
